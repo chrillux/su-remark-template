@@ -1,4 +1,4 @@
-# remark template for Stockholm university
+# remark template for HBO, originally for Stockholm university
 
 ### Usage
 
@@ -11,5 +11,6 @@
 * Surf to http://localhost:8000/?slides/example.md or whatever your slideshow
   is called.
 
-### TODO
-* Fix the FIXME's
+### About
+
+This is a fork from SU repo with the only difference at time of forking is the top right logo, since I can't have a SU logo in my presentations. ;)
